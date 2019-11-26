@@ -1,11 +1,11 @@
 # Site settings
 author: Kristy Parker
-title: 
+title: Web Development Learning Process
 header-img: img/home-bg.png
 email: kristyparker1@gmail.com
 copyright_name: Kristy Parker
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The journey of learning web development with Flatiron School.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kristynp
